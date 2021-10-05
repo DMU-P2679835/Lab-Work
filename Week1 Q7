@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <style>
+      div {
+        width: 100px;
+        height: 100px;
+        background-color: blue;
+        transition: background-color 0.3s;
+      }
+
+      div:hover {
+        background-color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <div></div>
+  </body>
+</html>
